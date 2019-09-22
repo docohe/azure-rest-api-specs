@@ -5,7 +5,7 @@
     "location": "wus",
     "clusterName": {
       "name": "kuskusprod",
-      "type": "Microsoft.Kusto/clusters"
+      "type": "Microsoft.Kusto/Clusters"
     }
   },
   "responses": {

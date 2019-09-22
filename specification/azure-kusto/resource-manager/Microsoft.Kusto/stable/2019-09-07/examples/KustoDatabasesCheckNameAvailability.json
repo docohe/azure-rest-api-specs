@@ -6,7 +6,7 @@
     "clusterName": "kustoProd",
     "databaseName": {
       "name": "kuskus",
-      "type": "Microsoft.Kusto/clusters/databases"
+      "type": "Microsoft.Kusto/Clusters/Databases"
     }
   },
   "responses": {

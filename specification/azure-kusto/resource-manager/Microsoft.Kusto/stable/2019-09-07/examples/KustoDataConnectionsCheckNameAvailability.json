@@ -7,7 +7,7 @@
     "databaseName": "KustoDatabase8",
     "dataConnectionName": {
       "name": "DataConnections8",
-      "type": "Microsoft.Kusto/clusters/databases/dataConnections"
+      "type": "Microsoft.Kusto/Clusters/Databases/DataConnections"
     }
   },
   "responses": {
@@ -16,7 +16,7 @@
         "name": "DataConnections8",
         "nameAvailable": false,
         "message": "Name 'DataConnections8' is already taken. Please specify a different name.",
-        "reason": "AlreadyExists"
+        "reason":  "AlreadyExists"
       }
     }
   }
